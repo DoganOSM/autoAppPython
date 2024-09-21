@@ -41,7 +41,7 @@ reponse = input("Qui est le plus fort?\n ")
 if reponse == "TOI":
     print("Bonne réponse ")
 else:
-    print("Mauvaise Réponse Abuse pas de ta confience en toi mdr")
+    print("Mauvaise Réponse Abuse pas de ta confience en toi mdrr")
 
 
 
