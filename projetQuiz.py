@@ -17,7 +17,7 @@ else:
 
 reponse = input("De quel manga vien la guilde Fairy Tail ?\n ")
 
-if reponse.lower() == "Fairy Tail":
+if reponse.lower() == "fairy tail":
     print("Bonne réponse ")
     point += 1
 else:
@@ -25,7 +25,7 @@ else:
 
 reponse = input("Quel est le manga le plus surcoté?\n ")
 
-if reponse.lower() == "SNK":
+if reponse.lower() == "snk":
     print("Bonne réponse ")
     point += 1
 else:
@@ -34,11 +34,11 @@ else:
 
 reponse = input("Qui est le plus beau?\n ")
 
-if reponse.lower() == "MOI":
+if reponse.lower() == "moi":
     print("Bonne réponse la confiance en sois c'est sa qu'il faut!! ")
     point += 1
 else:
-    print("Mauvaise Réponse Ai Confience en toi !!")
+    print("Mauvaise Réponse Ai Plus Confience en toi !!")
 
 reponse = input("Qui est le plus fort?\n ")
 
