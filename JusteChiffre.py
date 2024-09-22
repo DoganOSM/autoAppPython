@@ -33,10 +33,9 @@ if joueur.lower() == ("oui"):
         if choix_du_j == chiffre_a_deviner :
             print("Tu est donc l'élu !!! Tu est le goat ")
             break
+        elif choix_du_j > chiffre_a_deviner:
+            print("C'est moins -_-")
         else:
-            if choix_du_j > chiffre_a_deviner:
-                print("C'est moins -_-")
-            else:
-                print("C'est plus -_-")
+            print("C'est plus -_-")
 print("T'a réussi en",tentative,"tentatives")
 
