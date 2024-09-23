@@ -1,4 +1,4 @@
-# autoAppPython
+# autoAppPython : A lire non en preview mais en code pour une meilleur compréhension
 
 #dans ce dossier je commence à apprendre le python sous forme de projet de niveau variable allant du niveau 1 (facile) au niveau 3 (avancer) 
 
