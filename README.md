@@ -10,7 +10,7 @@ NIVEAU 1 (FACILE)
 
 NIVEAU 2 (MOYEN) 
 #projet 2.1 (gestionnairemdp) : enregistrement et gestion de mots de passe 
-#projet 2.2 (ambition) : jeu a plusieurs joueur chaque joueur recois a son tour un dée à 6 face qui lance autant de fois que voulu avec les point du déé s'accumulant mais si                            il tombe sur le chiffre 1 tout les point gagnez lors du tour par le joueur sont perdu voila pourquoi chaque joueur peur stopper sont tour dès que                               voulu.
+#projet 2.2 (ambition) : jeu a plusieurs joueur chaque joueur recois a son tour un dée à 6 face qui lance autant de fois que voulu avec les point du déé s'accumulant mais si                            il tombe sur le chiffre 1 tout les point gagnez lors du tour par le joueur sont perdu voila pourquoi chaque joueur peur stopper sont tour dès que                               voulu le premier à 50 gagne.
 
 
 
