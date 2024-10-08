@@ -14,6 +14,7 @@ NIVEAU 2 (MOYEN)
 #projet 2.3 (encryption) : encrypt un message entrée par l'user qui peux le decrypter par l'user avec un key 
 #projet 2.4 (morpion) : tout simplement le morpion en python
 
+#passage au python orienter vers la data!!!!
 
 
 
